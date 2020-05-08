@@ -1,0 +1,7 @@
+# Log Files
+nodePath.txt
+plan.txt
+
+# Visual Studio Code folders and files
+.vscode/
+__pycache__/
